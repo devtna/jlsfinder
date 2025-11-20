@@ -1,0 +1,5 @@
+{
+  "name": "Japanese Language School Finder",
+  "description": "A platform for users to search, filter, and save Japanese language schools. Includes an admin dashboard for school management.",
+  "requestFramePermissions": []
+}
